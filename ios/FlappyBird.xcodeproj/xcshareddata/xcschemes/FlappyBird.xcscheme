@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "FlapBigou.app"
-               BlueprintName = "FlapBigou"
-               ReferencedContainer = "container:FlapBigou.xcodeproj">
+               BuildableName = "FlappyBird.app"
+               BlueprintName = "FlappyBird"
+               ReferencedContainer = "container:FlappyBird.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "FlapBigouTests.xctest"
-               BlueprintName = "FlapBigouTests"
-               ReferencedContainer = "container:FlapBigou.xcodeproj">
+               BuildableName = "FlappyBirdTests.xctest"
+               BlueprintName = "FlappyBirdTests"
+               ReferencedContainer = "container:FlappyBird.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "FlapBigou.app"
-            BlueprintName = "FlapBigou"
-            ReferencedContainer = "container:FlapBigou.xcodeproj">
+            BuildableName = "FlappyBird.app"
+            BlueprintName = "FlappyBird"
+            ReferencedContainer = "container:FlappyBird.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "FlapBigou.app"
-            BlueprintName = "FlapBigou"
-            ReferencedContainer = "container:FlapBigou.xcodeproj">
+            BuildableName = "FlappyBird.app"
+            BlueprintName = "FlappyBird"
+            ReferencedContainer = "container:FlappyBird.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
