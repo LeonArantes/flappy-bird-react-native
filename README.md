@@ -11,14 +11,14 @@
     <img alt="Github License" src="https://img.shields.io/github/license/LeonArantes/flappy-bird-react-native" />
 </h1>
 
-<h1>
+<h1  align="center">
 <img src="./src/assets/readme/Sequence1.gif">
 <img src="./src/assets/readme/1.png" alt="Setup Game Flappy Bird">
 <img src="./src/assets/readme/2.png" alt="Colisions Flappy Bird">
 <img src="./src/assets/readme/3.png" alt="Colisions Flappy Bird">
 </h1>
   
-<!-- <hr/> -->
+  
 # 🔧 TECS
 
 - React Native
