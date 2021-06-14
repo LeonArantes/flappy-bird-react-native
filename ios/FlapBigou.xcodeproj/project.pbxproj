@@ -13,6 +13,7 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		F1EA948A1EC9471DA42B5B3A /* flappy-font.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 729D1360F3F64DA291B1B215 /* flappy-font.ttf */; };
 		F78A24C9C02E4818750CE73B /* libPods-FlapBigou-FlapBigouTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E6B316DEFBC88DB81EF3D920 /* libPods-FlapBigou-FlapBigouTests.a */; };
 /* End PBXBuildFile section */
 
@@ -40,6 +41,7 @@
 		5F6C7A3EA20CDAF03190035E /* Pods-FlapBigou.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlapBigou.release.xcconfig"; path = "Target Support Files/Pods-FlapBigou/Pods-FlapBigou.release.xcconfig"; sourceTree = "<group>"; };
 		60CC025B36CC9DD6603CC9FA /* Pods-FlapBigou-FlapBigouTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlapBigou-FlapBigouTests.debug.xcconfig"; path = "Target Support Files/Pods-FlapBigou-FlapBigouTests/Pods-FlapBigou-FlapBigouTests.debug.xcconfig"; sourceTree = "<group>"; };
 		661B3DCA2D881532881BD1DC /* libPods-FlapBigou.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FlapBigou.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		729D1360F3F64DA291B1B215 /* flappy-font.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "flappy-font.ttf"; path = "../src/assets/fonts/flappy-font.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = FlapBigou/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A6820FA53FA4BEE692231E9E /* Pods-FlapBigou.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlapBigou.debug.xcconfig"; path = "Target Support Files/Pods-FlapBigou/Pods-FlapBigou.debug.xcconfig"; sourceTree = "<group>"; };
 		E6B316DEFBC88DB81EF3D920 /* libPods-FlapBigou-FlapBigouTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FlapBigou-FlapBigouTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -122,6 +124,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				D7FA0A85CA560A9A427715CE /* Pods */,
+				E4E9708BEB394A0EBD7E9EC8 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -146,6 +149,15 @@
 				419A46F26E28D147ABD62BCF /* Pods-FlapBigou-FlapBigouTests.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		E4E9708BEB394A0EBD7E9EC8 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				729D1360F3F64DA291B1B215 /* flappy-font.ttf */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -244,6 +256,7 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				F1EA948A1EC9471DA42B5B3A /* flappy-font.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

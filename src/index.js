@@ -1,12 +1,8 @@
 import React from 'react';
-import {View, Text} from 'react-native';
+import GameScreen from './screens/GameScreen';
 
 const App = () => {
-  return (
-    <View style={{flex: 1, backgroundColor: 'red'}}>
-      <Text>Home Screen</Text>
-    </View>
-  );
+  return <GameScreen />;
 };
 
 export default App;

@@ -1,4 +1,4 @@
-package com.flapbigou;
+package br.com.flappybird;
 
 import com.facebook.react.ReactActivity;
 
