@@ -19,7 +19,7 @@
 </h1>
   
   
-# 🔧 TECS
+# 🔧 TECHS
 
 - React Native
 - Styled Components
